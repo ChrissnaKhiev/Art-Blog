@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS artblog_db;
+
+CREATE DATABASE artblog_db;
